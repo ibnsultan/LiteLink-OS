@@ -2,6 +2,12 @@
 
 LiteLink is a customized Ubuntu-based operating system tailored to serve as an efficient thin client OS. Designed to be incredibly lightweight and minimalistic, LiteLink simplifies thin client computing without breaking the bank.
 
+## Notice 📢
+
+Please be advised that the current release represents an experimental version of the project. While I am passionate about its progress, I must share that development will proceed at a deliberate pace due to my commitment to a full-time job and contemplation of returning to school.
+
+I sincerely appreciate your understanding and patience. Rest assured, exciting developments are on the horizon. Stay informed, as something even more remarkable is in the works. Thank you for being part of this journey!
+
 ## Motivation and Inspiration 🌟
 
 The main inspiration for creating LiteLink was the need for accessible, straightforward thin client solutions. Existing options either came at a steep price or were needlessly complex. LiteLink aims to fill this gap by providing a simple and cost-effective alternative.
