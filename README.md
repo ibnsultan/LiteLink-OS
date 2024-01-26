@@ -42,6 +42,9 @@ LiteLink has been successfully tested on the following devices:
 
 ⚠️ **Disclaimer:** LiteLink is a new operating system and hasn't undergone extensive testing. While I have made my best efforts to ensure its functionality, there may be unforeseen issues. Please use LiteLink with caution and report any problems you encounter on the [Issues Section](https://github.com/ibnsultan/LiteLink-OS/issues).
 
+🪲 **Issues so far Encountered**
+
+- Network driver issues for old Macs [View Here](https://github.com/ibnsultan/LiteLink-OS/issues/1)
 
 ## Software and Credits 📦
 
