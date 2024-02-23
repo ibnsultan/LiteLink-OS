@@ -4,7 +4,7 @@ LiteLink is a customized Ubuntu-based operating system tailored to serve as an e
 
 ## Notice 📢
 
-Please be advised that the current release represents an experimental version of the project. While I am passionate about its progress, I must share that development will proceed at a deliberate pace due to my commitment to a full-time job and contemplation of returning to school.
+Please be advised that the current release represents an experimental version of the project. While I am passionate about its progress, I must share that development will proceed at a deliberate pace due to my commitment to a full-time job.
 
 I sincerely appreciate your understanding and patience. Rest assured, exciting developments are on the horizon. Stay informed, as something even more remarkable is in the works. Thank you for being part of this journey!
 
